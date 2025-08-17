@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-14T14:15:06.117492",
+  "total_cycles": 0,
+  "model": "qwen-3b-instruct",
+  "bridge_status": "connected",
+  "components": {
+    "qwen_api": "http://localhost:8000",
+    "bridge": "ws://localhost:8765",
+    "hierarchical_model": "525M parameters",
+    "asi_arch": "evolution pipeline"
+  }
+}
